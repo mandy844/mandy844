@@ -2,14 +2,14 @@
 IT Student | Web Developer | PC Support | Networking | Database Management 
 
 ---
-
 ### 📊 GitHub Stats
-![Mandy's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy844&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mandy844&show_icons=true&theme=github_dark&cache_seconds=86400" />
+
 
 ---
-
 ### 💻 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=github_dark&cache_seconds=86400" />
+
 
 ---
 
@@ -18,7 +18,8 @@ IT Student | Web Developer | PC Support | Networking | Database Management
 
 ---
 
-### 🛠 Tech Stack
+#### 🛠 Tech Stack
+
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,5 +27,7 @@ IT Student | Web Developer | PC Support | Networking | Database Management
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
----
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+
  
