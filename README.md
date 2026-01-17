@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm mandy844 👋
+
+### 🛠 Languages and Tools
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=vision-friendly-dark" alt="mandy844's Top Langs" />
+</p>
+
+### 📈 GitHub Stats
+![mandy844's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy844&show_icons=true&theme=radical)
 
 <!--
 **mandy844/mandy844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
