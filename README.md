@@ -1,24 +1,7 @@
-## Hi there, I'm mandy844 👋
+# Hi there, I'm mandy844 👋
 
 ### 🛠 Languages and Tools
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=vision-friendly-dark" alt="mandy844's Top Langs" />
-</p>
+![mandy844's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=vision-friendly-dark&hide_progress=false)
 
 ### 📈 GitHub Stats
 ![mandy844's GitHub stats](https://github-readme-stats.vercel.app/api?username=mandy844&show_icons=true&theme=radical)
-![mandy844's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=vision-friendly-dark&include_all_commits=true)
-<!--
-**mandy844/mandy844** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
