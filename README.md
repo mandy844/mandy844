@@ -1,22 +1,7 @@
-## Hi, I’m Mandy 👋  
+## Hi, I’m Amanda 
 IT Student | Web Developer | PC Support | Networking | Database Management 
 
----
-### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=mandy844&show_icons=true&theme=github_dark&cache_seconds=86400" />
 
-
----
-### 💻 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandy844&layout=compact&theme=github_dark&cache_seconds=86400" />
-
-
----
-
-### 🔥 Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mandy844&theme=tokyo-night)
-
----
 
 #### 🛠 Tech Stack
 
