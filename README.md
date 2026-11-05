@@ -1,16 +1,17 @@
 # Hi, I'm Amanda 👋
 
-**IT Student | Aspiring Software Developer | IT Support**
+**IT Student | Aspiring Software Developer | IT Support | Graphic Design**
 
-I'm an Information Technology student interested in building practical software that solves everyday problems. I enjoy working on web applications, databases, and systems that make routine tasks easier to manage.
+I'm an Information Technology student interested in building practical software that solves everyday problems. I enjoy working on web applications, databases, IT support, and creative design work.
 
 ## What I'm working on
 
 - **Small Business Credit & Debt Tracking System** — a project in progress focused on helping small businesses record customer credit, track repayments, and keep clear outstanding-balance records.
-- Improving my skills in web development, database design, and software development.
+- Improving my skills in web development, database design, software development, and graphic design.
 
-## Tech & tools
+## Tech & creative tools
 
+### Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,12 +24,19 @@ I'm an Information Technology student interested in building practical software 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+### Graphic design & creative tools
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe InDesign](https://img.shields.io/badge/Adobe_InDesign-FF3366?style=flat-square&logo=adobeindesign&logoColor=white)
+![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=flat-square&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
 ## Areas I'm interested in
 
 - Web application development
 - Database design and management
 - IT support and troubleshooting
 - Networking
+- Graphic design and visual communication
 - Building useful systems for schools and small businesses
 
 ## Projects
@@ -44,4 +52,4 @@ A few projects I'm developing and improving:
 
 - **GitHub:** [@mandy844](https://github.com/mandy844)
 
-I'm always learning, building, and improving one project at a time.
+I'm always learning, building, and creating, one project at a time.
